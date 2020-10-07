@@ -1,0 +1,7 @@
+{
+  "name": "petern",
+  "version": "1.0.0",
+  "bin": {
+    "petern": "index.js"
+  }
+}
